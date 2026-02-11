@@ -542,6 +542,3 @@ graph TB
     style Ongoing fill:#e1bee7
 ```
 
----
-
-**For technical implementation details, API specifications, and integration guides, please refer to the accompanying technical documentation and API reference materials.**
